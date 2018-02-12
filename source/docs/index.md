@@ -33,7 +33,7 @@ Moleculer is written in ES2015. The minimum version of NodeJS is **v6.x.x**.
 
 ## How fast?
 
-We spent a lot of hours to improve the performance of Moleculer and create the fastest microservices framework for NodeJS.
+We spent a lot of hours to improve the performance of Moleculer and create the fastest microservices framework for NodeJS..
 
 [![Result chart](https://cloud.highcharts.com/images/utideti/6/600.png)](http://cloud.highcharts.com/show/utideti)
 [![Result chart](https://cloud.highcharts.com/images/abyfite/1/600.png)](http://cloud.highcharts.com/show/abyfite)
